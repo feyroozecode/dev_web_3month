@@ -1,0 +1,18 @@
+body {
+    background-color: orange;
+}
+
+h1 {
+    color: green;
+    font-size: large;
+}
+
+#titre2 {
+    color: blue;
+    font-size: 20px;
+}
+
+.titre3 {
+    color: cyan;
+    font-size: 18px;
+}
